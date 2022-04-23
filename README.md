@@ -1,4 +1,4 @@
-Er. Rakesh kumar gupta🎓
+Rakesh kumar gupta🎓
 
 DEsigining 🌐 Addict 💻
 
