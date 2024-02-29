@@ -5,8 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 📫To reach me :email:rakeshgupta5353@gmail.com
 <h3 align="left">A passionate frontend developer from India</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakesh60&show_icons=true&locale=en" alt="rakesh60" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh60-code&theme=tokyonight" align="center" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakesh60&show_icons=true&locale=en&theme=tokyonight"" alt="rakesh60" />
 </p>
 
 
